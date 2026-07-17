@@ -6,24 +6,23 @@ Bem-vindo ao meu espaço no GitHub! Sou um desenvolvedor entusiasmado por tecnol
 
 ## 🛠️ Tecnologias e Ferramentas
 
-* **Linguagens:** [Ex: JavaScript, TypeScript, Python, C#]
-* **Frameworks & Bibliotecas:** [Ex: React, Node.js, Next.js, Express]
-* **Bancos de Dados & Ferramentas:** [Ex: PostgreSQL, MongoDB, Git, Docker]
+* **Linguagens:** [JavaScript, HTML,CSS, Python, PHP]
+* **Frameworks & Bibliotecas:** [React, Node.js, Next.js]
+* **Bancos de Dados & Ferramentas:** [SQL e Git]
 
 ---
 
 ## 📁 O que eu já fiz (Projetos em Destaque)
 
-* **[Nome do Projeto 1]** - [Breve descrição do que o projeto faz]. Desenvolvido com **[Tecnologia X]** e **[Tecnologia Y]**.
-* **[Nome do Projeto 2]** - [Breve descrição do que o projeto faz]. Focado em resolver o problema de **[Contexto do problema]**.
+* **[Automação de cadastramento de produto]** - [Cadastra produtos da empresa automaticamente]. Desenvolvido com **[Python]** e **[IA(Claude support)]**.
+* **[Prória IA]** - [Fiz minha propria IA]. Focado em estudar e resolver problemas específicos meus.
 
 ---
 
 ## 🎯 Interesses e Aprendizados
 
-* 🔭 **Atualmente trabalhando em:** [Seu projeto atual ou estudos do momento]
-* 🌱 **Estudando e me aprofundando em:** [Tecnologia que está aprendendo agora]
-* ⚡ **Interesses de carreira:** [Ex: Desenvolvimento Web, Arquitetura de Software, Inteligência Artificial]
+* 🔭 **Atualmente trabalhando em:** [Técnico em Informática para internet]
+* 🌱 **Estudando e me aprofundando em:** [IA, scripts, automação, python]
 
 ---
 
