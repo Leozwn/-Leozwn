@@ -28,5 +28,5 @@ Bem-vindo ao meu espaço no GitHub! Sou um desenvolvedor entusiasmado por tecnol
 
 ## 📫 Conecte-se comigo
 
-* **LinkedIn:** [](https://www.linkedin.com/in/leonardo-dev-fullstack/))
+* **LinkedIn:** [Acesse meu perfil](https://www.linkedin.com/in/leonardo-dev-fullstack/)
 * **E-mail:** [leonardo.0liveira03.00@gmail.com]
